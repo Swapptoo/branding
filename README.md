@@ -3,7 +3,7 @@
 ###NOTE: DO NOT USE MELONPORT LOGO WITHOUT OUR CONSENT.
 
 # branding
-Blockchain Software for asset management
+Blockchain software for asset management
 
 # Contact
 For commerical usage please contact team@melonport.com <br>
