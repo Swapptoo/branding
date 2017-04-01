@@ -1,6 +1,6 @@
 <img src = "facebook/Facebook cover white on blue.png" width = "100%">
 
-###NOTE: DO NOT USE MELONPORT LOGO WITHOUT OUR CONSENT.
+### NOTE: DO NOT USE MELONPORT LOGO WITHOUT OUR CONSENT.
 
 # branding
 Blockchain software for asset management
