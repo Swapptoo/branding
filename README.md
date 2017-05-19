@@ -1,9 +1,13 @@
 <img src = "facebook/hero_image.png" width = "100%">
 
-### NOTE: DO NOT USE MELONPORT LOGO WITHOUT OUR CONSENT.
-
 # Branding
 Blockchain software for asset management
+
+# Contact
+### NOTE: DO NOT USE MELONPORT LOGO WITHOUT OUR CONSENT.
+For commerical usage please contact team@melonport.com <br>
+For additonal media inquiries please contact team@melonport.com <br>
+For non-commercial usage please notify us at http://chat.melonport.com/
 
 # Melonport Logos For Web
 * Melonport White Logo [Download](https://github.com/melonproject/branding/blob/master/logo-for-web/01_melonport_white_logo.png)
@@ -27,8 +31,3 @@ Blockchain software for asset management
 
 # Download All Media Kit
 Download all Melon Media Kit [here](https://github.com/melonproject/branding/blob/master/all-media-assets/all-media-assets.zip)
-
-# Contact
-For commerical usage please contact team@melonport.com <br>
-For additonal media inquiries please contact team@melonport.com <br>
-For non-commercial usage please notify us at http://chat.melonport.com/
