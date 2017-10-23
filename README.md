@@ -1,4 +1,4 @@
-<img src = "facebook/brand_hero.png" width = "100%">
+<img src = "facebook/brand_hero.jpg" width = "100%">
 
 # Branding
 Blockchain software for asset management
@@ -24,12 +24,15 @@ For non-commercial usage please notify us at http://chat.melonport.com/
 * Melonport-logo-icon.eps [Download](https://github.com/melonproject/branding/blob/master/logo-for-print/04_Melonport_logo_icon.eps)
 
 # Melonport Brand Colors
-* <img src = "melonport/colors/01_smoked_white-(primary).png" width = "10%"> Smoked White (primary) <span style="color:blue">#F5F5F5</span>
-* <img src = "melonport/colors/02_melon_black-(primary).png" width = "10%"> Melon Black (primary) <span style="color:blue">#1B1B1B</span>
-* <img src = "melonport/colors/03_melon_blue-(primary).png" width = "10%"> Melon Blue (primary) <span style="color:blue">#1189C6</span>
-* <img src = "melonport/colors/04_melon_black-(secondary).png" width = "10%"> Melon Black (secondary) <span style="color:blue">#171717</span>
-* <img src = "melonport/colors/05_white-(secondary).png" width = "10%"> Melon White (secondary) <span style="color:blue">#FFFFFF</span>
+* <img src = "melonport/colors/01_smoked_white-(primary).png" width = "5%"> Smoked White (primary) <span style="color:blue">#F5F5F5</span>
+* <img src = "melonport/colors/02_melon_black-(primary).png" width = "5%"> Melon Black (primary) <span style="color:blue">#1B1B1B</span>
+* <img src = "melonport/colors/03_melon_blue-(primary).png" width = "5%"> Melon Blue (primary) <span style="color:blue">#1189C6</span>
+* <img src = "melonport/colors/04_melon_black-(secondary).png" width = "5%"> Melon Black (secondary) <span style="color:blue">#171717</span>
+* <img src = "melonport/colors/05_white-(secondary).png" width = "5%"> Melon White (secondary) <span style="color:blue">#FFFFFF</span>
 
+# Melon Colors
+* <img src = "melonport/colors/01_primary.png" width = "5%"> Primary Colors <span style="color:blue">#FFFDF3</span>
+* <img src = "melonport/colors/02_black.png" width = "5%"> Black <span style="color:blue">#000000</span>
 
 # Download All Media Kit
 Download all Melon Media Kit [here](https://github.com/melonproject/branding/blob/master/all-media-assets/all-media-assets.zip)
