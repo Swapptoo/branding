@@ -11,11 +11,11 @@ For non-commercial usage please notify us at http://chat.melonport.com/
 
 # Melonport Logos For Web
 * Melonport White Logo [Download](https://github.com/melonproject/branding/blob/master/logo-for-web/01_melonport_white_logo.png)
-* Melonport Blue Logo [Download](https://github.com/melonproject/branding/blob/master/logo-for-web/02_melonport_blue_logo.png)
+* Melonport Dark Logo [Download](https://github.com/melonproject/branding/blob/master/logo-for-web/02_melonport_blue_logo.png)
 * Melonport Vertical White Logo [Download](https://github.com/melonproject/branding/blob/master/logo-for-web/03_melonport_vertical_white_logo.png)
-* Melonport Vertical Blue Logo [Download](https://github.com/melonproject/branding/blob/master/logo-for-web/04_melonport_vertical_blue_logo.png)
+* Melonport Vertical Dark Logo [Download](https://github.com/melonproject/branding/blob/master/logo-for-web/04_melonport_vertical_blue_logo.png)
 * Melonport White Logo Icon [Download](https://github.com/melonproject/branding/blob/master/logo-for-web/05_melonport_white_logo_icon.png)
-* Melonport Blue Logo Icon [Download](https://github.com/melonproject/branding/blob/master/logo-for-web/06_melonport_blue_logo_icon.png)
+* Melonport Dark Logo Icon [Download](https://github.com/melonproject/branding/blob/master/logo-for-web/06_melonport_blue_logo_icon.png)
 
 # Melonport Logos For Print
 * Melonport-logo-white.eps [Download](https://github.com/melonproject/branding/blob/master/logo-for-print/01_Melonport_logo_blue.eps)
@@ -24,10 +24,12 @@ For non-commercial usage please notify us at http://chat.melonport.com/
 * Melonport-logo-icon.eps [Download](https://github.com/melonproject/branding/blob/master/logo-for-print/04_Melonport_logo_icon.eps)
 
 # Melonport Brand Colors
-* Primary Dark Blue <span style="color:blue">#142242</span>
-* Ocean Blue <span style="color:blue">#1189C6</span>
-* Dark Grey <span style="color:blue">#252525</span>
-* Light Grey <span style="color:blue">#EBEBEB</span>
+* <img src = "melonport/colors/01_smoked_white-(primary).png" width = "100%"> Smoked White (primary) <span style="color:blue">#F5F5F5</span>
+* <img src = "melonport/colors/02_melon_black-(primary).png" width = "100%"> Melon Black (primary) <span style="color:blue">#1B1B1B</span>
+* <img src = "melonport/colors/03_melon_blue-(primary).png" width = "100%"> Melon Blue (primary) <span style="color:blue">#1189C6</span>
+* <img src = "melonport/colors/04_melon_black-(secondary).png" width = "100%"> Melon Black (secondary) <span style="color:blue">#171717</span>
+* <img src = "melonport/colors/05_white-(secondary).png" width = "100%"> Melon White (secondary) <span style="color:blue">#FFFFFF</span>
+
 
 # Download All Media Kit
 Download all Melon Media Kit [here](https://github.com/melonproject/branding/blob/master/all-media-assets/all-media-assets.zip)
