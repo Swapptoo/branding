@@ -1,4 +1,4 @@
-<img src = "facebook/brand_hero.jpg" width = "100%">
+<img src = "facebook/brand-hero.jpg" width = "100%">
 
 # Branding
 Blockchain software for asset management
