@@ -31,8 +31,8 @@ For non-commercial usage please notify us at http://chat.melonport.com/
 * <img src = "melonport/colors/05_white-(secondary).png" width = "5%"> Melon White (secondary) <span style="color:blue">#FFFFFF</span>
 
 # Melon Colors
-* <img src = "melonport/colors/01_primary.png" width = "5%"> Primary Colors <span style="color:blue">#FFFDF3</span>
-* <img src = "melonport/colors/02_black.png" width = "5%"> Black <span style="color:blue">#000000</span>
+* <img src = "melon/colors/01_primary.png" width = "5%"> Primary Colors <span style="color:blue">#FFFDF3</span>
+* <img src = "melon/colors/02_black.png" width = "5%"> Black <span style="color:blue">#000000</span>
 
 # Download All Media Kit
 Download all Melon Media Kit [here](https://github.com/melonproject/branding/blob/master/all-media-assets/all-media-assets.zip)
